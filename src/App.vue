@@ -1,5 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import Board from "./components/Board.vue";
+</script>
 
 <template>
   <div>Hello World</div>
+  <Board />
 </template>
